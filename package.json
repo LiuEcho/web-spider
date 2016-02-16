@@ -1,0 +1,19 @@
+{
+  "name": "web-spider",
+  "version": "1.0.0",
+  "description": "node spider",
+  "main": "app.js",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "request": "^2.69.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web-spider"
+  ],
+  "author": "echo",
+  "license": "MIT"
+}
